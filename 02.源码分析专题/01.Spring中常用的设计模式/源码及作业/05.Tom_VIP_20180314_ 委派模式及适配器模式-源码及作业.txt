@@ -1,0 +1,10 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-delegate
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-adapter
+
+作业：
+针对委派模式和适配器模式各拟定一个业务场景，用代码实现
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/pattern/05.委派模式及适配器模式.md

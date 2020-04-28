@@ -1,0 +1,12 @@
+﻿作业：
+自己手写一个IOC容器，理解定位、加载、注册、依赖注入全过程。
+思考：
+如果没有设计BeanFactory和FactoryBean这两个接口，Spring会怎么样？
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/spring/04.Tom_VIP_20180418_手写Mini版SpringV1.0.md
+
+
+课堂源码下载地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-spring-1.0

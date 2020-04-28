@@ -1,0 +1,9 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-proxy
+
+作业：
+仿JDK动态代理实现原理，自己手写一遍
+
+
+作业提交地址：
+本堂课的作业无需提交

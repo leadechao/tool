@@ -1,0 +1,10 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-singleton
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-prototype
+
+作业：
+自己运用单例模式及原型模式模拟生活中的案例
+用代码表述出来
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/pattern/02.Tom_VIP_20180307_单例模式及原型模式.md

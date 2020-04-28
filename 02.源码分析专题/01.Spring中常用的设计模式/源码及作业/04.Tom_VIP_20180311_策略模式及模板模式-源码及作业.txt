@@ -1,0 +1,10 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-strategy
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-template
+
+作业：
+针对策略模式和模板模式各拟定一个业务场景，用代码实现
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/pattern/04.策略模式及模板模式.md

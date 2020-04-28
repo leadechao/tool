@@ -1,0 +1,12 @@
+﻿作业：
+自己手写完成populateBean循环依赖注入的代码。
+思考：
+如果不设计BeanDefinition和BeanWrapper，Spring会发生什么？
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/spring/05.手写SpringIOC核心代码.md
+
+
+课堂源码下载地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-spring-2.0

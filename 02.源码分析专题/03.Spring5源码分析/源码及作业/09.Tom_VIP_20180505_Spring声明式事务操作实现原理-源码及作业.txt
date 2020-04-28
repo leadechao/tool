@@ -1,0 +1,10 @@
+﻿作业：利用AOP思想，自己去实现一个TransactionManager
+      把Method的异常拿到，把Method的名称拿到、把Method的参数拿到
+
+	  
+源码下载地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-spring-2.0
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-spring-transaction
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/spring/02.Tom_VIP_20180414_Spring系统概述及IOC实现原理.md

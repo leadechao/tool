@@ -1,0 +1,9 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-factory
+
+作业：
+自己运用工厂方法模式及抽象工厂模式模拟生活中的案例
+用代码表述出来
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/pattern/01.Spring中常用的设计模式概述及工厂模式详解.md

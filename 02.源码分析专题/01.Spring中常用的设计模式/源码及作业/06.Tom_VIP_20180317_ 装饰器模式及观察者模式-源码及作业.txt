@@ -1,0 +1,11 @@
+﻿源码下地址：
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-decorator
+http://git.gupaoedu.com/vip/tom-space/tree/master/vip-20180303/gupaoedu-vip-pattern-observer
+
+作业：
+1、模拟一个适用于装饰器模式的应用场景。
+2、完善老师上传的代码，用代理模式实现观察者模式的无侵入式解耦。
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/pattern/06.装饰器模式及观察者模式.md

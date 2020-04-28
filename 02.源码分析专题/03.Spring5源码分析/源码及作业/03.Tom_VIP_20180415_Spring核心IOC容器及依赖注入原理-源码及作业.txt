@@ -1,0 +1,7 @@
+﻿作业：
+理解IOC注入原理，并画出UML图
+理清BeanDefinition、BeanWrapper和原生Bean之间的关系，想一想为什么要这样设计？
+
+
+作业提交地址：
+http://git.gupaoedu.com/vip/statics/blob/master/源码专题/spring/03.Tom_VIP_20180415_Spring核心IOC容器及依赖注入原理.md
